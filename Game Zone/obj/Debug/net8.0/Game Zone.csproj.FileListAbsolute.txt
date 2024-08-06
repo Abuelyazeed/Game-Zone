@@ -1,0 +1,30 @@
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/bin/Debug/net8.0/appsettings.Development.json
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/bin/Debug/net8.0/appsettings.json
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/bin/Debug/net8.0/Game Zone.staticwebassets.runtime.json
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/bin/Debug/net8.0/Game Zone
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/bin/Debug/net8.0/Game Zone.deps.json
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/bin/Debug/net8.0/Game Zone.runtimeconfig.json
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/bin/Debug/net8.0/Game Zone.dll
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/bin/Debug/net8.0/Game Zone.pdb
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/Game Zone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/Game Zone.AssemblyInfoInputs.cache
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/Game Zone.AssemblyInfo.cs
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/Game Zone.csproj.CoreCompileInputs.cache
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/Game Zone.MvcApplicationPartsAssemblyInfo.cache
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/Game Zone.RazorAssemblyInfo.cache
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/Game Zone.RazorAssemblyInfo.cs
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/staticwebassets.build.json
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/staticwebassets.development.json
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/staticwebassets/msbuild.Game Zone.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/staticwebassets/msbuild.build.Game Zone.props
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Game Zone.props
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Game Zone.props
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/scopedcss/bundle/Game Zone.styles.css
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/scopedcss/projectbundle/Game Zone.bundle.scp.css
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/Game Zone.dll
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/refint/Game Zone.dll
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/Game Zone.pdb
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/Game Zone.genruntimeconfig.cache
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/ref/Game Zone.dll
