@@ -28,3 +28,4 @@
 /Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/Game Zone.pdb
 /Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/Game Zone.genruntimeconfig.cache
 /Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/ref/Game Zone.dll
+/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/Game Zone.sourcelink.json

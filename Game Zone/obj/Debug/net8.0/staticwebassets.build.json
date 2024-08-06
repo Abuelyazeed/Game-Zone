@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Er+a7BxVlA57QQl+a7nclW6UgJqGuw6rI4n/ToIwXlc=",
+  "Hash": "TFsvzh/1fEyWHar8U5RPmWNWodtp7buLkl4z5oV2Ijk=",
   "Source": "Game Zone",
   "BasePath": "_content/Game Zone",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/obj/Debug/net8.0/scopedcss/projectbundle/Game Zone.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/wwwroot/css/bootstrap.min.css",
+      "SourceId": "Game Zone",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/wwwroot/",
+      "BasePath": "_content/Game Zone",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap.min.css"
     },
     {
       "Identity": "/Users/ahmedmohamed/Desktop/Game Zone/Game Zone/wwwroot/css/site.css",
